@@ -1,11 +1,85 @@
 [
   {
-    "name": "Amala and Gbegiri",
-    "desc": "loremcsajuksbcvksan svjhbsdvkbsavskbsa sdkjvbsdavkjsdbkjv jbsadkjvbsdkvbsdkb jhbvsdjvbksdd,",
-    "region": "West Africa",
+    "name": "Egusi Soup",
+    "description": "Made from melon seeds rich in fat and protein that have been dried and ground up, this soup or stew typically contains leafy vegetables, meat or fish. Popular among the Ibo people of Nigeria, variations of this rich stew can be found all over Western Africa. In Nigeria, it’s usually eaten with pounded yam.",
+    "region": "Western Africa",
     "country": "Nigeria",
     "ingredients": [],
     "categories": [],
-    "photo": "location of image"
+    "image": "location of image",
+    "rating": 4.3
+  },
+  {
+    "name": "Banga Soup",
+    "knownAs": "Ofe Akwu, Oghwo Amiedi, Izuwo Ibiedi",
+    "description": "Banga or ofe akwu is a flavorful Nigerian soup made with palm fruit, beef or dried fish, vegetables, and seasonings such as salt and chili pepper. The soup is traditionally paired with various fufu dishes. The name of the dish is derived from two words: ofe, meaning soup or stew, and akwu, meaning palm fruit.",
+    "region": "West Africa",
+    "country": "Nigeria",
+    "ingredients": "Palm nut Extract, Assorted Meats, Pieces Stockfish (Panla, Okporoko), Dried Fish, Fresh or Smoked Shrimps, Ground Dried Crayfish or prawns, Banga Spice, Crushed Obeletientien leaves or Dried bitter leaves, Oburunbebe stick, Scotch bonnet ( Atarodo), onion, dried pepper, Periwinkles, seasonings",
+    "categories": "Soup",
+    "image": "location of image",
+    "rating": 4.3
+  },
+
+  {
+    "name": "Ogbono Soup",
+    "knownAs": "Ogbono is a traditional Nigerian soup made with a combination of ogbono seeds, red palm oil, onions, stock, seasoning cubes, leafy vegetables such as spinach, pumpkin leaves, or bitterleaf, and assorted meat and fish such as beef, tripe, shrimp, and crayfish.The ingredients are simmered in an uncovered pot until fully tender, and the soup is then traditionally served hot with fufu, because the soup's slimy consistency helps the lumps of fufu slide down. Ogbono has many versions, so it can also be made without vegetables.",
+    "region": "Western Africa",
+    "country": "Nigeria",
+    "ingredients": "Palm Oil, Ogbono, Meat, Crayfish, salt, Bitter leaves, Seasonings",
+    "categories": "VEGETABLE SOUP",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635518679/dishes-photo/azyfrv28b75qzxocygri.jpg",
+    "rating": 4.4
+  },
+
+  {
+    "name": "Shiro",
+    "knownAs": "Shiro is an Ethiopian stew made with chickpeas or broad beans as main ingredients, along with garlic, onions, ginger, tomatoes, and chili peppers. The chickpeas give this stew a nice texture and nutty flavor, but they can be replaced by shiro powder, which is a combination of chickpea flour and various spices. The dish is traditionally prepared for special occasions such as Ramadan and Tsom. It is recommended to serve shiro with injera flatbread on the side.",
+    "region": "Eastern Africa",
+    "country": "Ethiopa",
+    "ingredients": "Eggplant, Tomato, Garlic, Cumin, Paprika, Coriander, Parsley",
+    "categories": "Stew",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635520694/dishes-photo/dwt42nvcbxofouhqo65k.jpg",
+    "rating": 4.3
+  },
+
+  {
+    "name": "Githeri",
+    "description": "Githeri is a Kenyan staple food consisting of beans and maize that are stewed with onions, tomatoes, and sometimes potatoes or meat chunks. The stew is often flavored with cumin, turmeric, or chili powder. It is traditionally served on its own, although it can be served with rice or crusty bread on the side.The dish originates from the Kikuyu tribe, living in Central Kenya.",
+    "region": "Eastern Africa",
+    "country": "Kenya",
+    "ingredients": "Beans, Corn, Onion, Tomato, Potatoes, Cumin, Cayenne Pepper or Tumeric",
+    "categories": "Stew",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635520749/dishes-photo/qn5p0yjwzehlr85vmwn1.jpg"
+  },
+
+  {
+    "name": "Maffe",
+    "description": "Malva pudding is a traditional South African dessert consisting of a pudding base covered in a creamy, sweet sauce made with water, cream, vanilla, butter, and sugar. The pudding is usually made from butter, sugar, eggs, apricot jam, milk, flour, and salt.The dessert is typically served warm, preferably with ice cream, whipped cream, or vanilla custard on the side. It is believed that the dish is named malva pudding after the Afrikaans word malva, meaning marshmallow, referring to the similarities between marshmallows and the pudding's texture, although some say that the name is derived after the fact that the pudding used to contain Malvasia wine.",
+    "region": "Southern Africa",
+    "country": "South Africa",
+    "ingredients": "",
+    "categories": "Pudding",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635521963/dishes-photo/maffe_paqtsc.jpg"
+  },
+
+  {
+    "name": "Wali wa kukaanga",
+    "description": "Wali wa kukaanga is a delicious Kenyan dish made by combining boiled rice with turmeric, onions, oil, and vegetables such as carrots, peas, and corn. The combination of rice and vegetables is then fried, and the whole dish is served as an accompaniment to chicken dishes.It is recommended to pair wali wa kukaanga with a salad of choice on the side.",
+    "region": "Eastern Africa",
+    "country": "Kenya",
+    "ingredients": "",
+    "categories": "Rice Dish",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635521963/dishes-photo/kukaanga_ytjotq.jpg"
+  },
+
+  {
+    "name": "Kaab el ghazal",
+    "description": "These crescent-shaped cookies are usually associated with Morocco, but they can be found throughout Algeria and Tunisia in slightly different forms and under various names. Their name translates as gazelle ankles, but they are better known as gazelle horns. They consist of a thin pastry shell that is wrapped around a sweet cinnamon-flavored almond filling. Both filling and the pastry dough are typically enriched with orange blossom water. The cookies can be coated in crushed nuts or optionally dipped in orange blossom water and then dusted with sugar, in which case they are typically referred as kaab el ghazal m'fenned. ",
+    "region": "Nothern Africa",
+    "country": "Morocco",
+    "ingredients": "Flour, Butter, Marzipan, Orange Flower, Rose water, Cinnamon",
+    "categories": "Sweet Pastry",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635521964/dishes-photo/Kaab-el_vxohhm.jpg"
   }
 ]

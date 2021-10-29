@@ -7,7 +7,11 @@ const dishSchema = new mongoose.Schema({
     required: [true, "Dish name is required"],
     unique: true,
   },
-  desc: {
+  knownAs: {
+    type: String,
+    enum: [],
+  },
+  description: {
     type: String,
     required: [true, "Pls give description of the dish"],
     maxlength: [2000, "desc should not be more than 2000 characters"],
@@ -30,6 +34,7 @@ const dishSchema = new mongoose.Schema({
 
   country: {
     type: String,
+    required: [true, "Please provide food country associated with the dish"],
     enum: {
       values: [
         "Algeria",
@@ -108,9 +113,24 @@ const dishSchema = new mongoose.Schema({
     type: String,
     enum: [],
   },
+  image: {
+    type: String,
+    default: "/uploads/oops.jpeg",
+  },
 
   createdAt: {
     type: Date,
     default: Date.now(),
   },
+  featured: {
+    type: Boolean,
+    default: false,
+  },
+
+  rating: {
+    type: Number,
+    default: 4,
+  },
 });
+
+module.exports = mongoose.model("dish", dishSchema);
