@@ -14,7 +14,7 @@ const dishSchema = new mongoose.Schema({
   description: {
     type: String,
     required: [true, "Pls give description of the dish"],
-    maxlength: [2000, "desc should not be more than 2000 characters"],
+    maxlength: [10000, "desc should not be more than 2000 characters"],
   },
 
   region: {
@@ -23,8 +23,9 @@ const dishSchema = new mongoose.Schema({
       values: [
         "Nothern Africa",
         "Eastern Africa",
-        "Middle Africa, 'Southern Africa",
+        "Middle Africa",
         "Western Africa",
+        "Southern Africa",
       ],
       message: "{VALUE} is not supported",
     },
@@ -44,7 +45,7 @@ const dishSchema = new mongoose.Schema({
         "Libya",
         "Madeira",
         "Melilla",
-        " Morocco",
+        "Morocco",
         "Sudan",
         "Tunisia",
         "Western Sahara",
