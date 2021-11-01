@@ -1,0 +1,355 @@
+[
+  {
+    "name": "Egusi Soup",
+    "description": "Made from melon seeds rich in fat and protein that have been dried and ground up, this soup or stew typically contains leafy vegetables, meat or fish. Popular among the Ibo people of Nigeria, variations of this rich stew can be found all over Western Africa. In Nigeria, it’s usually eaten with pounded yam.",
+    "region": "Western Africa",
+    "country": "Nigeria",
+    "ingredients": "",
+    "categories": "",
+    "image": "location of image",
+    "rating": 4.3
+  },
+  {
+    "name": "Banga Soup",
+    "knownAs": "Ofe Akwu, Oghwo Amiedi, Izuwo Ibiedi",
+    "description": "Banga or ofe akwu is a flavorful Nigerian soup made with palm fruit, beef or dried fish, vegetables, and seasonings such as salt and chili pepper. The soup is traditionally paired with various fufu dishes. The name of the dish is derived from two words: ofe, meaning soup or stew, and akwu, meaning palm fruit.",
+    "region": "Western Africa",
+    "country": "Nigeria",
+    "ingredients": "Palm nut Extract, Assorted Meats, Pieces Stockfish (Panla, Okporoko), Dried Fish, Fresh or Smoked Shrimps, Ground Dried Crayfish or prawns, Banga Spice, Crushed Obeletientien leaves or Dried bitter leaves, Oburunbebe stick, Scotch bonnet ( Atarodo), onion, dried pepper, Periwinkles, seasonings",
+    "categories": "Soup",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635775260/dishes-photo/banga_qtnj6l.jpg",
+    "rating": 4.3
+  },
+
+  {
+    "name": "Ogbono Soup",
+    "description": "Ogbono is a traditional Nigerian soup made with a combination of ogbono seeds, red palm oil, onions, stock, seasoning cubes, leafy vegetables such as spinach, pumpkin leaves, or bitterleaf, and assorted meat and fish such as beef, tripe, shrimp, and crayfish.The ingredients are simmered in an uncovered pot until fully tender, and the soup is then traditionally served hot with fufu, because the soup's slimy consistency helps the lumps of fufu slide down. Ogbono has many versions, so it can also be made without vegetables.",
+    "region": "Western Africa",
+    "country": "Nigeria",
+    "ingredients": "Palm Oil, Ogbono, Meat, Crayfish, salt, Bitter leaves, Seasonings",
+    "categories": "VEGETABLE SOUP",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635518679/dishes-photo/azyfrv28b75qzxocygri.jpg",
+    "rating": 4.4
+  },
+
+  {
+    "name": "Shiro",
+    "description": "Shiro is an Ethiopian stew made with chickpeas or broad beans as main ingredients, along with garlic, onions, ginger, tomatoes, and chili peppers. The chickpeas give this stew a nice texture and nutty flavor, but they can be replaced by shiro powder, which is a combination of chickpea flour and various spices. The dish is traditionally prepared for special occasions such as Ramadan and Tsom. It is recommended to serve shiro with injera flatbread on the side.",
+    "region": "Eastern Africa",
+    "country": "Ethiopia",
+    "ingredients": "Eggplant, Tomato, Garlic, Cumin, Paprika, Coriander, Parsley",
+    "categories": "Stew",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635520694/dishes-photo/dwt42nvcbxofouhqo65k.jpg",
+    "rating": 4.3
+  },
+
+  {
+    "name": "Githeri",
+    "description": "Githeri is a Kenyan staple food consisting of beans and maize that are stewed with onions, tomatoes, and sometimes potatoes or meat chunks. The stew is often flavored with cumin, turmeric, or chili powder. It is traditionally served on its own, although it can be served with rice or crusty bread on the side.The dish originates from the Kikuyu tribe, living in Central Kenya.",
+    "region": "Eastern Africa",
+    "country": "Kenya",
+    "ingredients": "Beans, Corn, Onion, Tomato, Potatoes, Cumin, Cayenne Pepper or Tumeric",
+    "categories": "Stew",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635520749/dishes-photo/qn5p0yjwzehlr85vmwn1.jpg",
+    "featured": true
+  },
+
+  {
+    "name": "Maffe",
+    "description": "Malva pudding is a traditional South African dessert consisting of a pudding base covered in a creamy, sweet sauce made with water, cream, vanilla, butter, and sugar. The pudding is usually made from butter, sugar, eggs, apricot jam, milk, flour, and salt.The dessert is typically served warm, preferably with ice cream, whipped cream, or vanilla custard on the side. It is believed that the dish is named malva pudding after the Afrikaans word malva, meaning marshmallow, referring to the similarities between marshmallows and the pudding's texture, although some say that the name is derived after the fact that the pudding used to contain Malvasia wine.",
+    "region": "Southern Africa",
+    "country": "South Africa",
+    "ingredients": "",
+    "categories": "Pudding",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635521963/dishes-photo/maffe_paqtsc.jpg"
+  },
+
+  {
+    "name": "Wali wa kukaanga",
+    "description": "Wali wa kukaanga is a delicious Kenyan dish made by combining boiled rice with turmeric, onions, oil, and vegetables such as carrots, peas, and corn. The combination of rice and vegetables is then fried, and the whole dish is served as an accompaniment to chicken dishes.It is recommended to pair wali wa kukaanga with a salad of choice on the side.",
+    "region": "Eastern Africa",
+    "country": "Kenya",
+    "ingredients": "",
+    "categories": "Rice Dish",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635521963/dishes-photo/kukaanga_ytjotq.jpg",
+    "featured": true
+  },
+
+  {
+    "name": "Kaab el ghazal",
+    "description": "These crescent-shaped cookies are usually associated with Morocco, but they can be found throughout Algeria and Tunisia in slightly different forms and under various names. Their name translates as gazelle ankles, but they are better known as gazelle horns. They consist of a thin pastry shell that is wrapped around a sweet cinnamon-flavored almond filling. Both filling and the pastry dough are typically enriched with orange blossom water. The cookies can be coated in crushed nuts or optionally dipped in orange blossom water and then dusted with sugar, in which case they are typically referred as kaab el ghazal m'fenned.",
+    "region": "Nothern Africa",
+    "country": "Morocco",
+    "ingredients": "Flour, Butter, Marzipan, Orange Flower, Rose water, Cinnamon",
+    "categories": "Sweet Pastry",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635521964/dishes-photo/Kaab-el_vxohhm.jpg"
+  },
+  {
+    "name": "Sfenj",
+    "description": "Sfenj are popular Moroccan doughnut-like fritters made from sticky unleavened batter. The dough is traditionally shaped into rings and deep-fried until it develops a golden, crispy exterior. The interior should be fluffy, tender, and chewy. These fritters are usually served hot when sold by street vendors, and they can be consumed plain or dusted with icing sugar.",
+    "region": "Nothern Africa",
+    "country": "Morocco",
+    "ingredients": "Dry Yeast, warm water, flour, salt, Vegetable oil, Sugar ",
+    "categories": "Sweet Pastry",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770649/dishes-photo/sfenj_cxpulp.webp",
+    "rating": 4.5
+  },
+  {
+    "name": "Nshima",
+    "description": "Nshima is a staple food in Zambia – a very thick and smooth porridge made from ground maize. It is quite similar to the Kenyan ugali and the Zimbabwean sadza. Nshima is always consumed with soups, sauces, or stews, known as ndiwo in Zambia.The most common ndiwo dishes in the country are chibwabwa and ifisashi. Smaller pieces of nshima are typically torn by hand, and nshima is then used to scoop up the ndiwo dishes.",
+    "region": "Eastern Africa",
+    "country": "Zambia",
+    "ingredients": "Cornmeal, salt, water",
+    "categories": "Porridge",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770648/dishes-photo/nshima_zsdtzb.jpg",
+    "rating": 4.4,
+    "featured": true
+  },
+
+  {
+    "name": "Zaalouk",
+    "description": "Zaalouk is a traditional Moroccan salad made by cooking eggplant, tomatoes, garlic, and flavorings such as cumin, paprika, coriander, and parsley. Although it can be served on its own, zaalouk is also often served as a side dish, a spread for sandwiches, or a dip, when it is paired with crusty bread.",
+    "region": "Nothern Africa",
+    "country": "Morocco",
+    "ingredients": "Eggplant, Tomato, Garlic, Cumin, Paprika, Coriander, Parsley",
+    "categories": "Salad",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770648/dishes-photo/zaalouk_gqunqv.jpg",
+    "rating": 3.9
+  },
+
+  {
+    "name": "Maafe",
+    "description": "This traditional stew, occasionally also referred as a sauce or soup, is enjoyed throughout the West and Central Africa, but it is believed it originated among the Bambara people in Mali. It comes in numerous regional variations, but each version is created with roasted peanuts that are ground into flour and make the basic sauce of the dish.",
+    "region": "Western Africa",
+    "country": "Mali",
+    "ingredients": "Beef: Lamb, Goat or chicken, Peanut Butter, ginger, turmeric, coriander, coriander",
+    "categories": "Stew",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770648/dishes-photo/maafe_rjtdxx.jpg"
+  },
+
+  {
+    "name": "Malva Pudding",
+    "description": "Malva pudding is a traditional South African dessert consisting of a pudding base covered in a creamy, sweet sauce made with water, cream, vanilla, butter, and sugar. The pudding is usually made from butter, sugar, eggs, apricot jam, milk, flour, and salt. The dessert is typically served warm, preferably with ice cream, whipped cream, or vanilla custard on the side. It is believed that the dish is named malva pudding after the Afrikaans word malva, meaning marshmallow, referring to the similarities between marshmallows and the pudding's texture, although some say that the name is derived after the fact that the pudding used to contain Malvasia wine.",
+    "region": "Southern Africa",
+    "country": "South Africa",
+    "ingredients": "butter, sugar, eggs, apricot jam, milk, flour, salt",
+    "categories": "Pudding",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770648/dishes-photo/malva-pudding_btj7jc.jpg",
+    "featured": true
+  },
+
+  {
+    "name": "Seffa",
+    "description": "Seffa is a traditional Moroccan dish that is typically reserved for celebrations and festivities. It consists of either vermicelli noodles or couscous combined with a savory-sweet onion sauce and a topping of icing sugar, cinnamon, raisins, and ground almonds. It is not unusual to see pieces of chicken in the dish, as there are a number of variations on seffa. The dish is quite easy to prepare, and it is usually served as a side dish. It is recommended to pair seffa with a glass of warm milk.",
+    "region": "Nothern Africa",
+    "country": "Morocco",
+    "ingredients": "",
+    "categories": "Side Dish",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770648/dishes-photo/saffe_fm8be6.jpg",
+    "rating": 3.9
+  },
+
+  {
+    "name": "Taktouka",
+    "knownAs": "Chakchuka",
+    "description": "Taktouka is a healthy and nutritious Moroccan salad consisting of cooked tomatoes and green peppers mashed into a purée. The salad is often served as a side dish to grilled meat and fish dishes, although it can also be used as a dip, when it's consumed with crusty bread, used for scooping up the salad. It is recommended to garnish taktouka with freshly chopped parsley or coriander and a drizzle of olive oil.",
+    "region": "Nothern Africa",
+    "country": "Morocco",
+    "ingredients": "Tomato, Peppers, Garlic, Parsley, Coriander, Paprika, Cumin, Olive oil",
+    "categories": "Salad, Dip",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770649/dishes-photo/Taktouka_pvdwfe.jpg",
+    "rating": 4.7
+  },
+
+  {
+    "name": "Poulet DG",
+    "description": "Poulet DG is a tasty Cameroonian poultry dish made with a combination of chicken and ripe plantains in a hearty tomato sauce. The dish is typically garnished with a variety of vegetables such as green beans, bell peppers, and carrots, making it visually appealing and enhancing the flavors even further. Regarding the name of the dish, poulet refers to chicken, while DG means Directeur Général in French or CEO in English, referring to the fact that poulet DG was most commonly served to people from the upper classes in the past.",
+    "region": "Middle Africa",
+    "country": "Cameroon",
+    "categories": "Chicken Dish",
+    "ingredients": "Chicken, Tomato sauce, Plantain, Grean beans, Bell pepper, Carrot, Garlic, White pepper",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770649/dishes-photo/PouletDG_hxgim9.jpg"
+  },
+
+  {
+    "name": "Umm ali",
+    "knownAs": "Om ali, Omali",
+    "description": "Although there are many recipes, the Egyptian umm ali is usually made by dividing bread or puff pastry into pieces, then mixing it with sugar, milk, and coconut flakes. The mixture is typically sprinkled with raisins, pistachios, and cinnamon, then baked in the oven until the top develops a golden brown color. This dessert can be served hot or chilled. When translated, the name of the dish means Ali's mother, referring to the 13th-century legend saying that Sultan Ezz El Din Aybak's wife prepared the dessert as a sign of celebration and it was then shared amongst the people.",
+    "region": "Nothern Africa",
+    "country": "Egypt",
+    "ingredients": "Crisp Pastry: sweet crackers, cookies, Nuts, Cream, Milk",
+    "categories": "Dessert",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770649/dishes-photo/umali_v5eo3w.jpg"
+  },
+
+  {
+    "name": "Bazin",
+    "knownAs": "Bazeen, بازين",
+    "description": "Bazin is a popular Libyan unleavened bread (also considered a dough-based dish) made by boiling barley flour and salt in water and beating it with a stick called magraf until it develops into a dough which is then baked or steamed. The bread is characterized by its hard texture, achieved by the usage of large amounts of salt. It is traditionally shared and consumed using the right hand. Bazin is often served with a tomato-based stew, potatoes, hard-boiled eggs, and mutton.",
+    "region": "Nothern Africa",
+    "country": "Libya",
+    "ingredients": "Flour, salt, water",
+    "categories": "Bread",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770650/dishes-photo/bazin_gjy3py.jpg"
+  },
+  {
+    "name": "Khobz",
+    "knownAs": "Moroccan Flatbread",
+    "description": "Khobz is a traditional Moroccan bread that is shaped into round, flat loaves and baked in an oven until it develops a crispy crust. It can be made with different types of flour such as wheat, bran, barley, and semolina. Some bakers like to add anise, nigella, or cumin in order to enhance its flavors. Khobz is used to scoop up sauces, dips, meat, and vegetables in numerous Moroccan dishes.",
+    "region": "Nothern Africa",
+    "country": "Morocco",
+    "ingredients": "Flour, Anise, Nigella, Cumin",
+    "categories": "Bread",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770649/dishes-photo/Khobz_nzyaku.jpg"
+  },
+  {
+    "name": "Hoenderpastei",
+    "description": "Hoenderpastei is a South African dish consisting of a shortcrust pastry shell filled with pieces of chicken, vegetables such as onions, carrots, and celery, hard-boiled eggs, and seasonings such as pepper, lemon juice, salt, and bay leaves.",
+    "region": "Southern Africa",
+    "country": "South Africa",
+    "categories": "Savory Pastry, Street Food",
+    "ingredients": "Chicken, Onions, Carrots, Boiled eggs, Pepper, Lemon juice, salt, Bay leaves",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770649/dishes-photo/Hoenderpastei_mqjcge.jpg"
+  },
+  {
+    "name": "Genfo",
+    "knownAs": "Ga'at, Akelet, Marqaa",
+    "description": "Genfo is a simple Ethiopian porridge that is commonly consumed for breakfast, made by adding dry-roasted barley flour to boiling water and stirring the concoction with a wooden utensil until it develops a smooth, yet extremely thick consistency. The porridge is then transferred to a bowl, and a hole is created in the center, usually by using a finjal (Ethiopian coffee cup). The well is filled with clarified spiced butter and berbere spices. Genfo is traditionally consumed as it is, although it can be accompanied by a scoop of yogurt.",
+    "region": "Eastern Africa",
+    "country": "Ethiopia",
+    "categories": "Porridge, Breakfast",
+    "ingredients": "Barley Flour",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770650/dishes-photo/Genfo_s89qax.jpg"
+  },
+  {
+    "name": "Maakouda",
+    "knownAs": "Maaqouda",
+    "description": "Maakouda are traditional potato fritters that are popular throughout the Maghreb, especially in Morocco, Algeria, and Tunisia. The fritters are usually prepared plain, but they can also be stuffed with meat, tuna, or cheese, although not that often. They're made with potatoes, parsley, garlic, flour, salt, and pepper. The potatoes are boiled, mashed, and mixed with other ingredients into small disks which are then deep-fried in hot oil until golden brown. Maakouda is traditionally served as an appetizer, a side dish, or an ingredient in a long sandwich roll that's usually sold as street food and served with harissa, coriander, and lemon juice. The fritters are especially popular during the month of Ramadan.",
+    "region": "Nothern Africa",
+    "country": "Morocco",
+    "categories": "Appetizer, Snack, Street food, Deep fried Dish",
+    "ingredients": "Potatoes, Parsley, Garlic, Flour, Salt, Black pepper",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770650/dishes-photo/Maakouda_uzc9ku.jpg"
+  },
+  {
+    "name": "Domoda",
+    "knownAs": "Gambian Peanut Stew",
+    "description": "Domoda is the national dish of Gambia, a peanut stew made with or without meat and served over fluffy rice. If meat is used in the dish, it is usually beef, bushmeat, or chicken. If Domoda is made without meat, any available vegetables can be added into the stew, usually pumpkins and sweet potatoes.",
+    "region": "Southern Africa",
+    "country": "Gambia",
+    "categories": "Stew, Meat Dish",
+    "ingredients": "Beef or Chicken, Pumpkin, Sweet potato, Peanuts, Tomato Paste, Tomato, Onion",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770650/dishes-photo/domoda_p3tkk4.jpg"
+  },
+  {
+    "name": "Kafteji",
+    "description": "Kafteji is a traditional Tunisian dish made with fried vegetables. Typical veggies used in the dish include eggplants, bell peppers, potatoes, tomatoes, zucchinis, and pumpkins. The vegetables are fried, chopped, then combined with (often fried) eggs and seasonings. The dish is often sprinkled with parsley or coriander, and it's then served as a side to poultry or fish, although it can be eaten as it is. Kafteji is also a popular Tunisian street food, often served in a baguette.",
+    "region": "Nothern Africa",
+    "country": "Tunisia",
+    "categories": "Vegetable Dish, Side Dish, Street Food, Vegetarian Dish",
+    "ingredients": "Eggplant, Bell pepper, Potatoes, Tomato, Zucchini, Pumpkin, Eggs, Harissa",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770650/dishes-photo/Kafteji_aswl8n.jpg",
+    "rating": 4.8
+  },
+  {
+    "name": "Afang Soup",
+    "description": "Afang is a traditional soup hailing from the southeastern parts of Nigeria, The afang leaves are ground or pounded and the onions are chopped before the beef is boiled with the onions and seasoning cubes in a small quantity of water. When done, the dried fish is added with the palm oil, ground pepper, afang leaves, and water leaves. Once the leaves become tender and the liquids evaporate a bit, the soup is simmered for a short while before it's ready to be served. It's especially popular among the Efiks, people of Akwa Ibom and Cross River states.",
+    "region": "Western Africa",
+    "country": "Nigeria",
+    "categories": "Soup",
+    "ingredients": "Afang leaves, Waterleafs, dried fish, beef, onions, red palm oil, ground crayfish, Seasoning cubes",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770651/dishes-photo/Afang_Soup_tqcr1o.jpg",
+    "rating": 4.5
+  },
+  {
+    "name": "Fricassee",
+    "description": "Fricassee is a traditional Tunisian sandwich that's packed with flavor, but also with lots of calories. The base is made with flour, eggs, oil, salt, water, and yeast, and it is then shaped into round or elongated rolls which are fried in hot oil and filled with tuna, hummus, boiled eggs, capers, olives, harissa, and boiled potatoes.",
+    "region": "Nothern Africa",
+    "country": "Tunisia",
+    "categories": "Sandwich",
+    "ingredients": "Eggs, Oil, Salt, Water, Tuna, Hummus, Boiled eggs, Capers, Olives, Harissa, Boiled potatoes",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770650/dishes-photo/Fricassee_ncemde.jpg",
+    "rating": 4.5
+  },
+  {
+    "name": "Bessara",
+    "knownAs": "Bissara, بسارة, Beyssar, Besara, Beyssara",
+    "description": "Bessara is a comforting Moroccan dish made with puréed beans – either split peas or dried fava beans. It can be prepared in the form of a soup or porridge, while the thicker versions are commonly used as a dip. The puréed beans are typically seasoned with olive oil, lemon juice, and garlic, and the dish is often served with paprika and cumin on the side, while crusty Moroccan bread is almost mandatory. Bessara is traditionally served for breakfast, and it is especially popular during winter.",
+    "region": "Nothern Africa",
+    "country": "Morocco",
+    "categories": "Vegetable Soup, Breakfast, Porridge, Dip, Plant-Based/Vegan Dish",
+    "ingredients": "Split Peas, Fava beans, Olive oil, Lemon Juice, Garlic, Paprika, Cumin",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770651/dishes-photo/Bessara_jrh6n7.jpg",
+    "rating": 4.4
+  },
+  {
+    "name": "Lablabi",
+    "knownAs": "Lablebi, لبلابي",
+    "description": "Tunisian chickpea soup is a real working class staple — cheap, quick to prepare, filling, and commonly found at inexpensive restaurants. Lablabi is a hot and spicy dish, also quite greasy and heavy, and typically flavored with garlic, cumin, and harissa. It is traditionally served ladled over chunks of stale crusty bread, drizzled with olive oil, sometimes even with either vinegar or lemon or lime juice, and often garnished with cilantro, parsley, and scallions. Special versions of lablabi include capers, olives, pickled vegetables and tuna, while another variety called hergma is made with cow's hooves.",
+    "region": "Nothern Africa",
+    "country": "Tunisia",
+    "categories": "VEGETABLE SOUP",
+    "ingredients": "Garlic, Cumin, Harissa, Olive oil, Vinegar, Lemon, Lime, Cilantro, Parsley, Scallions",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770651/dishes-photo/Lablabi_o0ixyb.jpg",
+    "rating": 4.5
+  },
+  {
+    "name": "Waakye",
+    "description": "Although it originated in northern parts of Ghana, the rice-and-bean-based dish known as waakye is today consumed on a national level. Whether it's eaten for breakfast or lunch, this dish can be made as rich and as filling as one likes by adding an almost unending list of accompaniments.",
+    "region": "Western Africa",
+    "country": "Ghana",
+    "categories": "Rice Dish, Breakfast, Street Food",
+    "ingredients": "Fried Plantain, spaghetti-like talia, Shito, Boiled eggs, Avocados, Tomato-based soup with meat, Gari foto",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770650/dishes-photo/Waakye_nrgjyo.jpg"
+  },
+  {
+    "name": "Koeksister",
+    "knownAs": "Koe'sister",
+    "description": "Koeksister is a sweet South African snack with a sticky appearance. It is prepared by frying braided dough strips in oil, then dunking them into a cold sugary syrup. These sticky treats are sold on every major street in South Africa, and today they can even be found in most supermarkets. It is recommended to top them with cinnamon or lemon juice before consumption.",
+    "region": "Southern Africa",
+    "country": "South Africa",
+    "categories": "Sweet Pastry, Snack, Deep-fried Dessert, Fried dough, Street Food Sweets",
+    "ingredients": "Flour, Baking powder, Salt, Unsalted Butter, Milk, Oil, White Sugar, Water, Peeled Fresh Ginger, Lemon Strips, Lemon Juice",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770651/dishes-photo/Koeksister_lm9zmn.jpg",
+    "rating": 4.8
+  },
+  {
+    "name": "Harissa",
+    "description": "Harissa is a traditional spicy paste originating from Tunisia, There are so many variations on harissa that there is no fixed recipe and every family has their own version. Some people like to add lemon juice or fermented onions to the mix. The condiment is traditionally used in sandwiches or with couscous and meat such as beef, poultry, lamb, and goat. Harissa can also be added to soups and stews.",
+    "region": "Nothern Africa",
+    "country": "Tunisia",
+    "categories": "Condiment",
+    "ingredients": "Roasted Red Pepper, Olive Oil, Cumin, Coriander, Caraway, Garlic",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770651/dishes-photo/Harissa_lawaqq.jpg",
+    "rating": 4.1
+  },
+  {
+    "name": "Hawawshi",
+    "knownAs": "حواوشى",
+    "description": "Hawawshi is a popular Egyptian snack consisting of a traditional baladi bread, in appearance similar to the famous pita pockets, stuffed with a flavorful mixture of minced meat, vegetables, and various spices. The generously seasoned meat mixture is placed inside the bread dough and baked until all the flavors combine, the meat is cooked, and the bread achieves a light golden color and a crispy texture.",
+    "region": "Nothern Africa",
+    "country": "Egypt",
+    "categories": "SNACK, STREET FOOD",
+    "ingredients": "",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770652/dishes-photo/Hawawshi_hmrliq.jpg"
+  },
+  {
+    "name": "Fit-fit",
+    "knownAs": "Fitfit, Fir-fir, ፍርፍር / ፍትፍት",
+    "description": "Fitfit is a typical Ethiopian food served for breakfast, made with clarified spiced butter and berbere spices. There are two main versions of fitfit: the one made with injera flatbread, and the other one made with unleavened kitcha bread.",
+    "region": "Eastern Africa",
+    "country": "Ethiopia",
+    "categories": "BREAKFAST",
+    "ingredients": ""
+  },
+  {
+    "name": "Eba",
+    "knownAs": "Garri, Ẹ̀bà",
+    "description": "Eba or garri is a Nigerian staple food consisting of cassava flour combined with hot water. The combination is traditionally mixed with a large wooden spoon until it firms up, and is then rolled into a ball. Eba is served with almost all Nigerian soups. It can be dipped into the soups, but it's also often served with stews and various meat dishes.",
+    "region": "Western Africa",
+    "country": "Nigeria",
+    "categories": "Side Dish",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770651/dishes-photo/Eba_ripi18.jpg",
+    "rating": 3.8
+  }
+]
