@@ -17,7 +17,7 @@
     "country": "Nigeria",
     "ingredients": "Palm nut Extract, Assorted Meats, Pieces Stockfish (Panla, Okporoko), Dried Fish, Fresh or Smoked Shrimps, Ground Dried Crayfish or prawns, Banga Spice, Crushed Obeletientien leaves or Dried bitter leaves, Oburunbebe stick, Scotch bonnet ( Atarodo), onion, dried pepper, Periwinkles, seasonings",
     "categories": "Soup",
-    "image": "location of image",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635775260/dishes-photo/banga_qtnj6l.jpg",
     "rating": 4.3
   },
 
@@ -50,7 +50,8 @@
     "country": "Kenya",
     "ingredients": "Beans, Corn, Onion, Tomato, Potatoes, Cumin, Cayenne Pepper or Tumeric",
     "categories": "Stew",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635520749/dishes-photo/qn5p0yjwzehlr85vmwn1.jpg"
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635520749/dishes-photo/qn5p0yjwzehlr85vmwn1.jpg",
+    "featured": true
   },
 
   {
@@ -70,7 +71,8 @@
     "country": "Kenya",
     "ingredients": "",
     "categories": "Rice Dish",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635521963/dishes-photo/kukaanga_ytjotq.jpg"
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635521963/dishes-photo/kukaanga_ytjotq.jpg",
+    "featured": true
   },
 
   {
@@ -100,7 +102,8 @@
     "ingredients": "Cornmeal, salt, water",
     "categories": "Porridge",
     "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770648/dishes-photo/nshima_zsdtzb.jpg",
-    "rating": 4.4
+    "rating": 4.4,
+    "featured": true
   },
 
   {
@@ -131,7 +134,8 @@
     "country": "South Africa",
     "ingredients": "butter, sugar, eggs, apricot jam, milk, flour, salt",
     "categories": "Pudding",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770648/dishes-photo/malva-pudding_btj7jc.jpg"
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770648/dishes-photo/malva-pudding_btj7jc.jpg",
+    "featured": true
   },
 
   {

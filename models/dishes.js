@@ -110,7 +110,7 @@ const dishSchema = new mongoose.Schema({
     type: String,
     enum: [],
   },
-  category: {
+  categories: {
     type: String,
     enum: [],
   },
