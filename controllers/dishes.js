@@ -111,9 +111,18 @@ const getRandomDish = async (req, res) => {
     .json({ status: "success", name: random.name, random });
 };
 
+const getDish = async (req, res) => {
+  const { id: dishID } = req.params;
+  const dish = await Dish.findOne({ _id: dishID });
+
+  if (!dish) throw Error;
+  res.status(StatusCodes.OK).json({ dish });
+};
+
 module.exports = {
   getAllDishes,
   getAllDishesStatic,
   createDish,
   getRandomDish,
+  getDish,
 };

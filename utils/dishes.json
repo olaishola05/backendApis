@@ -351,5 +351,172 @@
     "categories": "Side Dish",
     "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770651/dishes-photo/Eba_ripi18.jpg",
     "rating": 3.8
+  },
+  {
+    "name": "Mchicha",
+    "description": "Mchicha is the most popular Tanzanian dish. This thick and creamy vegetarian meal is usually prepared with leafy vegetables such as amaranth or spinach with added grated coconut, coconut milk, peanut butter, tomatoes, and onions. It is recommended to serve mchicha with rice, ugali, or samp and beans on the side in order to make a satisfying main course.",
+    "region": "Eastern Africa",
+    "country": "Tanzania",
+    "categories": "VEGETABLE DISH, PLANT-BASED/VEGAN DISH",
+    "ingredients": "Spinach, Coconut, Coconut Milk, Peanut Butter, Tomato, Onion",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862591/dishes-photo/Mchicha_ylyf4m.jpg"
+  },
+
+  {
+    "name": "Samak mashwi",
+    "description": "Samak mashwi is an Egyptian dish that is also quite popular in Lebanon. It consists of a whole baked fish which is then lavishly garnished with parsley, lemon slices, mayonnaise, pickles, and sliced olives. Before baking, the fish should be cleaned, and its head is left untouched apart from the eyes, which should be removed. It is typically seasoned with salt and olive oil. Samak mashwi is especially popular as a party dish, prepared for various social events and during Ramadan.",
+    "region": "Nothern Africa",
+    "country": "Egypt",
+    "categories": "SALTWATER FISH DISH",
+    "ingredients": "Fish, Lemon, Lemon Juice, Olives, Garlic, Pickles, Tomato, Onions, Chilling, Coriander powder, Cumin powder, White Vinegar, Salt",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862590/dishes-photo/Samak_mashwi_zvfu1x.jpg"
+  },
+  {
+    "name": "Chermoula",
+    "knownAs": "شرمولة, Charmoula",
+    "description": "Chermoula is a North African marinade consisting of lemon juice, olive oil, coriander, parsley, garlic, cumin, paprika, chili peppers, and salt. The final result is a rough-textured paste that is traditionally used with fish or seafood dishes. Although it is mostly used to give flavor to fish, chermoula might also be used on meat and vegetables, as a dipping sauce, or as a dressing for salads.",
+    "region": "Nothern Africa",
+    "country": "Morocco",
+    "categories": "Dip, Sauce, Dressing",
+    "ingredients": "Lemon Juice, Olive Oil, Coriander, Parsley, Garlic, Cumin, Paprika, Hot Pepper",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862591/dishes-photo/Chermoula_lffo4z.jpg",
+    "rating": 3.9
+  },
+  {
+    "name": "Ras el hanout",
+    "description": "Ras el hanout is a mixture which often includes up to 40 different spices, while some blends claim to include over 100. Literally translated, ras el hanout means top of the shop, suggesting that the spice blend is the best and finest thing a consumer can buy from the merchants.Overall, the spice mix should be aromatic, warm, sharp, and slightly pungent, including some common, and some unusual ingredients such as dried lavender, caraway, galangal, a variety of peppers, dried rosebuds, and Japanese white ginger. Sometimes, ras el hanout can even contain hashish or a Spanish fly. It is quite versatile, so it can be rubbed into meat or stirred into rice dishes, and it is especially significant for giving the spicy and sweet aromas to the famous Moroccan tajines.",
+    "region": "Nothern Africa",
+    "country": "Morocco",
+    "categories": "SPICE BLEND",
+    "ingredients": "Ground Cumin, Ground Ginger, Salt, Ground Black Pepper, Ground Cinnamon, Ground Coriander Seeds, Cayenne, Groud Allspice, Gound Cloves",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862589/dishes-photo/Ras_el_hanout_maf1tb.jpg",
+    "rating": 4.4
+  },
+  {
+    "name": "Hummus",
+    "knownAs": "Houmous, Hommus, Hummus b’tahini",
+    "description": "This internationally popular, beige-colored spread is traditionally made with mashed chickpeas, tahini sesame paste, lemon juice, and garlic. People across the world love hummus for its tangy flavor and the fact that it is filled with nutrients. When served, it is typically dressed with a drizzle of olive oil, and is then used as a dip for vegetables or a flavorful filling for flatbreads such as pita. Even today, not much is known about its origins, although the earliest mention of hummus dates back to 13th-century Egypt. Hummus is sometimes additionally enriched with spices such as cumin and paprika, and it can be garnished with anything from fresh herbs, cucumbers, and chopped tomatoes to olives, pine nuts, and hard-boiled eggs.",
+    "region": "Nothern Africa",
+    "country": "Egypt",
+    "categories": "Dip, Appetizer, Side Dish, Spread, Plant-Based/Vegan Dish",
+    "ingredients": "Tahini, Chickpeas, Lemon, Garlic, Cumin",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862591/dishes-photo/Hummus_dhhtwv.jpg",
+    "rating": 4.3
+  },
+  {
+    "name": "Duqqa",
+    "description": "Duqqa is an Egyptian blend of herbs, toasted nuts, and spices such as cumin, sesame seeds, and coriander. The combination of these ingredients is ground into a coarse powder which can be used as a salad topping, a dip with olive oil and bread, or as a seasoning. Its name is derived from the Egyptian Arabic word for to crush or to pound, referring to the method of production. Duqqa originated as peasant food and people mostly consumed it as a seasoning for bread. Due to its high protein and fat content, it provided sustenance throughout the day.",
+    "region": "Nothern Africa",
+    "country": "Egypt",
+    "categories": "CONDIMENT",
+    "ingredients": "Hazelnuts, Sesame Seeds, Coriander seeds, Cummin Seeds, Ground Black Pepper, Flaked salt, Olive Oil",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862589/dishes-photo/Duqqa_wmmodw.jpg"
+  },
+  {
+    "name": "Thieboudienne",
+    "knownAs": "Tiéboudienne, Ceebu Jën, Riz Senegalais, Thiéboudiène, Cheb-u-Jin",
+    "description": "Thieboudienne is the national dish of Senegal, an aromatic combination of fish, vegetables, and rice in a hearty tomato sauce flavored with garlic and chili. Fish, vegetables, and rice are usually served separately, with a few lime wedges on the side, used for squeezing the juice over fish. It is believed that the dish was invented in the city of St. Louis in the 19th century.",
+    "region": "Western Africa",
+    "country": "Senegal",
+    "categories": "SALTWATER FISH, DISH RICE DISH",
+    "ingredients": "Fish, Bell Pepper, Cabbage, Carrots, Purple eggplant, Garlic, Onions, Parsley, Sweet Potatoes, Rice, Vegetable Oil, Tomato Paste, Scotch bonnet habanero chile, Salt, Black Pepper",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862590/dishes-photo/Thieboudienne_wywfhu.jpg"
+  },
+  {
+    "name": "Ful medames",
+    "knownAs": "Ful, Foul medames",
+    "description": "Ful medames is an ancient, pre-Ottoman and pre-Islamic national dish of Egypt, a traditional breakfast food consisting of slowly simmered fava beans seasoned with a squeeze of lemon juice, olive oil, garlic, and selected spices. Some remnants of the dish were found in the 12th Dynasty Pharaonic tombs in Egypt, and any food that has been found in an ancient tomb must have been a wildly popular culinary treat. The creamy, earthy stew is usually spiced with the addition of chilis and cayenne pepper. It is recommended to prepare it a day in advance because the beans need to be soaked and cooked overnight. When eaten, the hearty stew is traditionally served out of big metal jugs, and once on the plate, it is often mopped up with pieces of fresh pita bread and topped with pickled beets, parsley, onions, tomatoes, and cumin.",
+    "region": "Nothern Africa",
+    "country": "Egypt",
+    "categories": "STEW, BREAKFAST, PLANT-BASED/VEGAN DISH",
+    "ingredients": "Fava Beans, Lemon, Olive Oil, Tomato, Parsley, Hot Pepper, Garlic, Salt",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862589/dishes-photo/Ful_medames_zgbhyf.jpg",
+    "rating": 3.6
+  },
+  {
+    "name": "Rechta",
+    "description": "Rechta is a traditional Algerian dish consisting of thin and flat noodles and chicken sauce. The noodles are made with a combination of flour, salt, water, and ghee, while the sauce is made with chicken pieces, onions, garlic, oil, chickpeas, ras el hanout, cinnamon, turnips, potatoes, and zucchini.",
+    "region": "Nothern Africa",
+    "country": "Algeria",
+    "categories": "Noodle Dish",
+    "ingredients": "flour, salt, water, ghee, chicken, Onions, Garlic, oil, chickpeas, ras el hanout, cinnamon, turnips, potatoes, zucchini",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862589/dishes-photo/Rechta_agcu5a.jpg",
+    "rating": 4.6
+  },
+  {
+    "name": "Mechouia Salad",
+    "knownAs": "سلطة مشوية, Slata Mechouia, Grilled Salad, Hmiss, Mishwiyya",
+    "description": "Mechouia is a Tunisian salad made with grilled, coarsely chopped onions, peppers, tomatoes, and garlic, drizzled with olive oil and seasoned with caraway, salt, and black pepper. The salad is then typically garnished with hard-boiled eggs, olives, or tuna. The salad can be served on its own, but it is also often served on toasted bread or baguette slices. It is quite common to find it in Tunisia as a part of a mix of appetizers in traditional restaurants.",
+    "region": "Nothern Africa",
+    "country": "Tunisia",
+    "categories": "Salad, Appetizer",
+    "ingredients": "Onions, Pepper, Tomato, Garlic, Olive Oil, Caraway, Salt, Black Pepper, Jalapeno peppers, Boiled Egg, Cooked Tuna",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862589/dishes-photo/Mechouia_Salad_immgfl.jpg",
+    "rating": 4.8
+  },
+  {
+    "name": "Cachupa",
+    "knownAs": "Munchupa, Cachupa Rica, Cachupa Pobre, Cachupa Refogada",
+    "description": "This slow-cooked corn (hominy) and bean stew is made with vegetables (plantains, sweet potatoes, squash, and yams), meat (marinated pork, chorizo sausages, or tuna), and spices (bay leaves, garlic, and pimento). It is the perfect “poor man’s dish” – inexpensive, filling, and packed with protein. It hails from Cape Verde, a ten-island archipelago off the west African coast, and dates back to the 15th century when Portuguese settlers first began growing American vegetables. The dish comes in two varieties – cachupa rica (rich) and cachupa pobre (poor), the only difference between the two being that rica is made with meat while pobre is made with vegetables.",
+    "region": "Western Africa",
+    "country": "Cape Verde",
+    "categories": "Stew",
+    "ingredients": "Corn, Pork, Chorizo, Tuna, Bay Leaf, Garlic",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862591/dishes-photo/Cachupa_gtsmdf.jpg",
+    "rating": 3.9
+  },
+  {
+    "name": "Vetkoek",
+    "knownAs": "Amagwinya, Magwinya, Fetcooks, Mafatcooks, Fat Cake",
+    "description": "Vetkoek is an iconic South African street food item consisting of deep-fried yeast buns that are usually filled with cheese, curry, or fruit jams. It can be served as a small snack, for breakfast or lunch. The ball-shaped dough is made from salt, yeast, and flour. When served at a South African braai, vetkoek is often served with boerewors, a traditional sausage. You can also serve them as they are, or with a cup of tea on the side.",
+    "region": "Southern Africa",
+    "country": "South Africa",
+    "categories": "Street Food, Snack, Deep-fried Dish",
+    "ingredients": "",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862588/dishes-photo/Vetkoek_l773zo.jpg",
+    "rating": 5.0
+  },
+  {
+    "name": "Rumi",
+    "knownAs": "جبنه رومى, Gebna Rūmi, Roumy, Gebna Turki, Ras Cheese",
+    "description": "Rumi is a hard Egyptian cheese made from cow’s milk or a combination of cow’s and water buffalo’s milk. It has a sharp, salty flavor and a pungent aroma that is often enhanced with peppercorns. When served, the cheese wheels are typically cut into long and thin slices which easily fit into pita bread. There are three basic types of rumi, depending on the maturation period: new rumi is unaged, medium rumi is aged for three years, while the old rumi is aged from eight to twelve years in order to develop as much flavor as it can.",
+    "region": "Nothern Africa",
+    "country": "Egypt",
+    "categories": "CHEESE, COW'S MILK CHEESE, PASTEURIZED MILK CHEESE, HARD CHEESE, NATURAL RIND CHEESE, MIXED MILK CHEESE",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862588/dishes-photo/Rumi_q3tcmp.jpg",
+    "rating": 3.9
+  },
+  {
+    "name": "Fufu",
+    "knownAs": "Foo-Foo, Foufou, Foutou, Fu Fu, Fufuo, Sakora, Sakoro, Couscous de Cameroun",
+    "description": "Fufu is very difficult to make, a process that starts by pounding cassava and unripe plantains together with a big wooden pole and mashing them while adding water. As it needs to be vigorously stirred, it usually takes two people to make it - one pounding it, and the other moving it around between the pounding. Once the mixture is smooth, it gets shaped into small balls that are then placed in a stew or soup with meat. Similar to the Tanzanian ugali, an indentation is made in the ball, used for scooping up the sauce, with fufu acting as a spoon. This starchy side dish is an important accompaniment to various stews and sauce-based dishes, and it's regularly eaten throughout West and Central Africa.",
+    "region": "Western Africa",
+    "country": "Ghana",
+    "categories": "Side Dish",
+    "ingredients": "Plantain, Cassava",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862588/dishes-photo/fufu_v8r8qo.jpg",
+    "rating": 4.2
+  },
+  {
+    "name": "Baghrir",
+    "knownAs": "Beghrir, Rghayif",
+    "description": "Baghrir is a soft and spongy Moroccan pancake made with semolina flour. It is characterized by numerous holes on its surface, a result of yeast-produced bubbles in the batter that form and break as the pancake cooks. It is recommended to serve baghrir with fruit jams or a syrup made with butter and honey.",
+    "region": "Nothern Africa",
+    "country": "Morocco",
+    "categories": "PANCAKE, DESSERT",
+    "ingredients": "Baking powder, Egg, Flour, Semolina, Sugar, Vanilla, Yeast, Salt, Milk Powder, Water",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862588/dishes-photo/Baghrir_qu55vr.jpg",
+    "rating": 4.4,
+    "featured": true
+  },
+  {
+    "name": "Fesikh",
+    "knownAs": "Feseekh, فسيخ‎‎",
+    "description": "Fesikh is a popular Egyptian dish consisting of dried, fermented, and salted gray mullet. The fish is dried in the sun by a specialist called a fasakhani. If prepared incorrectly, the dish can cause poisoning, so it is traditionally stored in firmly closed glass jars. Fesikh is served during the Sham-El-Nessim festival, accompanied by finely chopped onions, lemon wedges, and Egyptian bread.",
+    "region": "Nothern Africa",
+    "country": "Egypt",
+    "categories": "SALTWATER FISH DISH",
+    "ingredients": "Grey Mullet, Onion, Scallions, Lemon",
+    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862588/dishes-photo/Fesikh_mfzttf.jpg"
   }
 ]
