@@ -5,6 +5,7 @@ const {
   getAllDishesStatic,
   getAllDishes,
   createDish,
+  getRandomDish,
 } = require("../controllers/dishes");
 const {
   uploadDishImage,
@@ -12,6 +13,7 @@ const {
 } = require("../controllers/uploadsController");
 
 router.route("/").get(getAllDishes).post(createDish);
+router.route("/random").get(getRandomDish);
 router.route("/uploads").post(uploadDishImage).post(uploadDishImageLocal);
 router.route("/static").get(getAllDishesStatic);
 module.exports = router;
