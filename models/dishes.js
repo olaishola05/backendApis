@@ -14,7 +14,7 @@ const dishSchema = new mongoose.Schema({
   description: {
     type: String,
     required: [true, "Pls give description of the dish"],
-    maxlength: [10000, "desc should not be more than 2000 characters"],
+    maxlength: [5000, "desc should not be more than 2000 characters"],
   },
 
   region: {
@@ -104,7 +104,6 @@ const dishSchema = new mongoose.Schema({
       ],
       message: "{VALUE} is not supported",
     },
-    required: [true, "pls provide a country associated with the dish"],
   },
   ingredients: {
     type: String,
