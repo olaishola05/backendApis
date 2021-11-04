@@ -34,8 +34,8 @@ const dishSchema = new mongoose.Schema({
   },
 
   country: {
-    type: String,
-    required: [true, "Please provide food country associated with the dish"],
+    type: Array,
+    required: [true, "Please provide country associated with the dish"],
     enum: {
       values: [
         "Algeria",
@@ -129,7 +129,7 @@ const dishSchema = new mongoose.Schema({
 
   rating: {
     type: Number,
-    default: 4,
+    default: n / a,
   },
 });
 
