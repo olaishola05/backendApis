@@ -14,7 +14,7 @@ const dishSchema = new mongoose.Schema({
   description: {
     type: String,
     required: [true, "Pls give description of the dish"],
-    maxlength: [5000, "desc should not be more than 2000 characters"],
+    maxlength: [3000, "desc should not be more than 2000 characters"],
   },
 
   region: {
