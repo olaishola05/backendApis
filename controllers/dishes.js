@@ -1,6 +1,6 @@
 const Dish = require("../models/dishes");
 const { StatusCodes } = require("http-status-codes");
-const { query } = require("express");
+const { BadRequestError } = require("../errors");
 
 const getAllDishesStatic = async (req, res) => {
   const dishs = await Dish.find({})
@@ -20,6 +20,23 @@ const getAllDishes = async (req, res) => {
     sort,
     fields,
   } = req.query;
+
+  if (
+    !featured &&
+    !name &&
+    !country &&
+    !region &&
+    !categories &&
+    !numericFilters &&
+    !sort &&
+    !fields
+  ) {
+    throw new BadRequestError(
+      `Invalid query ${Object.keys(
+        req.query
+      )} entered, Please check and try again`
+    );
+  }
 
   const queryObjs = {};
 
@@ -65,7 +82,7 @@ const getAllDishes = async (req, res) => {
     });
   }
 
-  console.log(queryObjs);
+  // console.log(queryObjs);
   let result = Dish.find(queryObjs);
 
   // sort
@@ -89,6 +106,7 @@ const getAllDishes = async (req, res) => {
   result = result.skip(skip).limit(limit);
 
   const dishs = await result;
+
   res.status(StatusCodes.OK).json({
     nHits: dishs.length,
     pageHit: page,
@@ -112,10 +130,12 @@ const getRandomDish = async (req, res) => {
 };
 
 const getDish = async (req, res) => {
-  const { id: dishID } = req.params;
-  const dish = await Dish.findOne({ _id: dishID });
+  const { id: dishId } = req.params;
+  const dish = await Dish.findOne({ _id: dishId });
 
-  if (!dish) throw Error;
+  if (!dish) {
+    throw new NotFoundError(`No dish with id ${dishId}`);
+  }
   res.status(StatusCodes.OK).json({ dish });
 };
 

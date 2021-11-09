@@ -6,7 +6,6 @@
     "country": "Nigeria",
     "ingredients": "",
     "categories": "",
-    "image": "location of image",
     "rating": 4.3
   },
   {
@@ -17,7 +16,7 @@
     "country": "Nigeria",
     "ingredients": "Palm nut Extract, Assorted Meats, Pieces Stockfish (Panla, Okporoko), Dried Fish, Fresh or Smoked Shrimps, Ground Dried Crayfish or prawns, Banga Spice, Crushed Obeletientien leaves or Dried bitter leaves, Oburunbebe stick, Scotch bonnet ( Atarodo), onion, dried pepper, Periwinkles, seasonings",
     "categories": "Soup",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635775260/dishes-photo/banga_qtnj6l.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635775260/dishes-photo/banga_qtnj6l.jpg",
     "rating": 4.3
   },
 
@@ -28,7 +27,7 @@
     "country": "Nigeria",
     "ingredients": "Palm Oil, Ogbono, Meat, Crayfish, salt, Bitter leaves, Seasonings",
     "categories": "VEGETABLE SOUP",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635518679/dishes-photo/azyfrv28b75qzxocygri.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635518679/dishes-photo/azyfrv28b75qzxocygri.jpg",
     "rating": 4.4
   },
 
@@ -39,7 +38,7 @@
     "country": "Ethiopia",
     "ingredients": "Eggplant, Tomato, Garlic, Cumin, Paprika, Coriander, Parsley",
     "categories": "Stew",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635520694/dishes-photo/dwt42nvcbxofouhqo65k.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635520694/dishes-photo/dwt42nvcbxofouhqo65k.jpg",
     "rating": 4.3
   },
 
@@ -50,7 +49,7 @@
     "country": "Kenya",
     "ingredients": "Beans, Corn, Onion, Tomato, Potatoes, Cumin, Cayenne Pepper or Tumeric",
     "categories": "Stew",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635520749/dishes-photo/qn5p0yjwzehlr85vmwn1.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635520749/dishes-photo/qn5p0yjwzehlr85vmwn1.jpg",
     "featured": true
   },
 
@@ -61,7 +60,7 @@
     "country": "South Africa",
     "ingredients": "",
     "categories": "Pudding",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635521963/dishes-photo/maffe_paqtsc.jpg"
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635521963/dishes-photo/maffe_paqtsc.jpg"
   },
 
   {
@@ -71,7 +70,7 @@
     "country": "Kenya",
     "ingredients": "",
     "categories": "Rice Dish",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635521963/dishes-photo/kukaanga_ytjotq.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635521963/dishes-photo/kukaanga_ytjotq.jpg",
     "featured": true
   },
 
@@ -82,7 +81,7 @@
     "country": "Morocco",
     "ingredients": "Flour, Butter, Marzipan, Orange Flower, Rose water, Cinnamon",
     "categories": "Sweet Pastry",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635521964/dishes-photo/Kaab-el_vxohhm.jpg"
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635521964/dishes-photo/Kaab-el_vxohhm.jpg"
   },
   {
     "name": "Sfenj",
@@ -91,7 +90,7 @@
     "country": "Morocco",
     "ingredients": "Dry Yeast, warm water, flour, salt, Vegetable oil, Sugar ",
     "categories": "Sweet Pastry",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770649/dishes-photo/sfenj_cxpulp.webp",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635770649/dishes-photo/sfenj_cxpulp.webp",
     "rating": 4.5
   },
   {
@@ -101,7 +100,7 @@
     "country": "Zambia",
     "ingredients": "Cornmeal, salt, water",
     "categories": "Porridge",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770648/dishes-photo/nshima_zsdtzb.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635770648/dishes-photo/nshima_zsdtzb.jpg",
     "rating": 4.4,
     "featured": true
   },
@@ -113,7 +112,7 @@
     "country": "Morocco",
     "ingredients": "Eggplant, Tomato, Garlic, Cumin, Paprika, Coriander, Parsley",
     "categories": "Salad",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770648/dishes-photo/zaalouk_gqunqv.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635770648/dishes-photo/zaalouk_gqunqv.jpg",
     "rating": 3.9
   },
 
@@ -124,7 +123,7 @@
     "country": "Mali",
     "ingredients": "Beef: Lamb, Goat or chicken, Peanut Butter, ginger, turmeric, coriander, coriander",
     "categories": "Stew",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770648/dishes-photo/maafe_rjtdxx.jpg"
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635770648/dishes-photo/maafe_rjtdxx.jpg"
   },
 
   {
@@ -134,7 +133,7 @@
     "country": "South Africa",
     "ingredients": "butter, sugar, eggs, apricot jam, milk, flour, salt",
     "categories": "Pudding",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770648/dishes-photo/malva-pudding_btj7jc.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635770648/dishes-photo/malva-pudding_btj7jc.jpg",
     "featured": true
   },
 
@@ -145,7 +144,7 @@
     "country": "Morocco",
     "ingredients": "",
     "categories": "Side Dish",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770648/dishes-photo/saffe_fm8be6.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635770648/dishes-photo/saffe_fm8be6.jpg",
     "rating": 3.9
   },
 
@@ -157,7 +156,7 @@
     "country": "Morocco",
     "ingredients": "Tomato, Peppers, Garlic, Parsley, Coriander, Paprika, Cumin, Olive oil",
     "categories": "Salad, Dip",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770649/dishes-photo/Taktouka_pvdwfe.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635770649/dishes-photo/Taktouka_pvdwfe.jpg",
     "rating": 4.7
   },
 
@@ -168,7 +167,7 @@
     "country": "Cameroon",
     "categories": "Chicken Dish",
     "ingredients": "Chicken, Tomato sauce, Plantain, Grean beans, Bell pepper, Carrot, Garlic, White pepper",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770649/dishes-photo/PouletDG_hxgim9.jpg"
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635770649/dishes-photo/PouletDG_hxgim9.jpg"
   },
 
   {
@@ -179,7 +178,7 @@
     "country": "Egypt",
     "ingredients": "Crisp Pastry: sweet crackers, cookies, Nuts, Cream, Milk",
     "categories": "Dessert",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770649/dishes-photo/umali_v5eo3w.jpg"
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635770649/dishes-photo/umali_v5eo3w.jpg"
   },
 
   {
@@ -190,7 +189,7 @@
     "country": "Libya",
     "ingredients": "Flour, salt, water",
     "categories": "Bread",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770650/dishes-photo/bazin_gjy3py.jpg"
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635770650/dishes-photo/bazin_gjy3py.jpg"
   },
   {
     "name": "Khobz",
@@ -200,7 +199,7 @@
     "country": "Morocco",
     "ingredients": "Flour, Anise, Nigella, Cumin",
     "categories": "Bread",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770649/dishes-photo/Khobz_nzyaku.jpg"
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635770649/dishes-photo/Khobz_nzyaku.jpg"
   },
   {
     "name": "Hoenderpastei",
@@ -209,7 +208,7 @@
     "country": "South Africa",
     "categories": "Savory Pastry, Street Food",
     "ingredients": "Chicken, Onions, Carrots, Boiled eggs, Pepper, Lemon juice, salt, Bay leaves",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770649/dishes-photo/Hoenderpastei_mqjcge.jpg"
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635770649/dishes-photo/Hoenderpastei_mqjcge.jpg"
   },
   {
     "name": "Genfo",
@@ -219,7 +218,7 @@
     "country": "Ethiopia",
     "categories": "Porridge, Breakfast",
     "ingredients": "Barley Flour",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770650/dishes-photo/Genfo_s89qax.jpg"
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635770650/dishes-photo/Genfo_s89qax.jpg"
   },
   {
     "name": "Maakouda",
@@ -229,7 +228,7 @@
     "country": "Morocco",
     "categories": "Appetizer, Snack, Street food, Deep fried Dish",
     "ingredients": "Potatoes, Parsley, Garlic, Flour, Salt, Black pepper",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770650/dishes-photo/Maakouda_uzc9ku.jpg"
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635770650/dishes-photo/Maakouda_uzc9ku.jpg"
   },
   {
     "name": "Domoda",
@@ -239,7 +238,7 @@
     "country": "Gambia",
     "categories": "Stew, Meat Dish",
     "ingredients": "Beef or Chicken, Pumpkin, Sweet potato, Peanuts, Tomato Paste, Tomato, Onion",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770650/dishes-photo/domoda_p3tkk4.jpg"
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635770650/dishes-photo/domoda_p3tkk4.jpg"
   },
   {
     "name": "Kafteji",
@@ -248,7 +247,7 @@
     "country": "Tunisia",
     "categories": "Vegetable Dish, Side Dish, Street Food, Vegetarian Dish",
     "ingredients": "Eggplant, Bell pepper, Potatoes, Tomato, Zucchini, Pumpkin, Eggs, Harissa",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770650/dishes-photo/Kafteji_aswl8n.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635770650/dishes-photo/Kafteji_aswl8n.jpg",
     "rating": 4.8
   },
   {
@@ -258,7 +257,7 @@
     "country": "Nigeria",
     "categories": "Soup",
     "ingredients": "Afang leaves, Waterleafs, dried fish, beef, onions, red palm oil, ground crayfish, Seasoning cubes",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770651/dishes-photo/Afang_Soup_tqcr1o.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635770651/dishes-photo/Afang_Soup_tqcr1o.jpg",
     "rating": 4.5
   },
   {
@@ -268,7 +267,7 @@
     "country": "Tunisia",
     "categories": "Sandwich",
     "ingredients": "Eggs, Oil, Salt, Water, Tuna, Hummus, Boiled eggs, Capers, Olives, Harissa, Boiled potatoes",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770650/dishes-photo/Fricassee_ncemde.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635770650/dishes-photo/Fricassee_ncemde.jpg",
     "rating": 4.5
   },
   {
@@ -279,7 +278,7 @@
     "country": "Morocco",
     "categories": "Vegetable Soup, Breakfast, Porridge, Dip, Plant-Based/Vegan Dish",
     "ingredients": "Split Peas, Fava beans, Olive oil, Lemon Juice, Garlic, Paprika, Cumin",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770651/dishes-photo/Bessara_jrh6n7.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635770651/dishes-photo/Bessara_jrh6n7.jpg",
     "rating": 4.4
   },
   {
@@ -290,7 +289,7 @@
     "country": "Tunisia",
     "categories": "VEGETABLE SOUP",
     "ingredients": "Garlic, Cumin, Harissa, Olive oil, Vinegar, Lemon, Lime, Cilantro, Parsley, Scallions",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770651/dishes-photo/Lablabi_o0ixyb.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635770651/dishes-photo/Lablabi_o0ixyb.jpg",
     "rating": 4.5
   },
   {
@@ -300,7 +299,7 @@
     "country": "Ghana",
     "categories": "Rice Dish, Breakfast, Street Food",
     "ingredients": "Fried Plantain, spaghetti-like talia, Shito, Boiled eggs, Avocados, Tomato-based soup with meat, Gari foto",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770650/dishes-photo/Waakye_nrgjyo.jpg"
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635770650/dishes-photo/Waakye_nrgjyo.jpg"
   },
   {
     "name": "Koeksister",
@@ -310,7 +309,7 @@
     "country": "South Africa",
     "categories": "Sweet Pastry, Snack, Deep-fried Dessert, Fried dough, Street Food Sweets",
     "ingredients": "Flour, Baking powder, Salt, Unsalted Butter, Milk, Oil, White Sugar, Water, Peeled Fresh Ginger, Lemon Strips, Lemon Juice",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770651/dishes-photo/Koeksister_lm9zmn.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635770651/dishes-photo/Koeksister_lm9zmn.jpg",
     "rating": 4.8
   },
   {
@@ -320,7 +319,7 @@
     "country": "Tunisia",
     "categories": "Condiment",
     "ingredients": "Roasted Red Pepper, Olive Oil, Cumin, Coriander, Caraway, Garlic",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770651/dishes-photo/Harissa_lawaqq.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635770651/dishes-photo/Harissa_lawaqq.jpg",
     "rating": 4.1
   },
   {
@@ -331,7 +330,7 @@
     "country": "Egypt",
     "categories": "SNACK, STREET FOOD",
     "ingredients": "",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770652/dishes-photo/Hawawshi_hmrliq.jpg"
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635770652/dishes-photo/Hawawshi_hmrliq.jpg"
   },
   {
     "name": "Fit-fit",
@@ -349,7 +348,7 @@
     "region": "Western Africa",
     "country": "Nigeria",
     "categories": "Side Dish",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635770651/dishes-photo/Eba_ripi18.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635770651/dishes-photo/Eba_ripi18.jpg",
     "rating": 3.8
   },
   {
@@ -359,7 +358,7 @@
     "country": "Tanzania",
     "categories": "VEGETABLE DISH, PLANT-BASED/VEGAN DISH",
     "ingredients": "Spinach, Coconut, Coconut Milk, Peanut Butter, Tomato, Onion",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862591/dishes-photo/Mchicha_ylyf4m.jpg"
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635862591/dishes-photo/Mchicha_ylyf4m.jpg"
   },
 
   {
@@ -369,7 +368,7 @@
     "country": "Egypt",
     "categories": "SALTWATER FISH DISH",
     "ingredients": "Fish, Lemon, Lemon Juice, Olives, Garlic, Pickles, Tomato, Onions, Chilling, Coriander powder, Cumin powder, White Vinegar, Salt",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862590/dishes-photo/Samak_mashwi_zvfu1x.jpg"
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635862590/dishes-photo/Samak_mashwi_zvfu1x.jpg"
   },
   {
     "name": "Chermoula",
@@ -379,7 +378,7 @@
     "country": "Morocco",
     "categories": "Dip, Sauce, Dressing",
     "ingredients": "Lemon Juice, Olive Oil, Coriander, Parsley, Garlic, Cumin, Paprika, Hot Pepper",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862591/dishes-photo/Chermoula_lffo4z.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635862591/dishes-photo/Chermoula_lffo4z.jpg",
     "rating": 3.9
   },
   {
@@ -389,7 +388,7 @@
     "country": "Morocco",
     "categories": "SPICE BLEND",
     "ingredients": "Ground Cumin, Ground Ginger, Salt, Ground Black Pepper, Ground Cinnamon, Ground Coriander Seeds, Cayenne, Groud Allspice, Gound Cloves",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862589/dishes-photo/Ras_el_hanout_maf1tb.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635862589/dishes-photo/Ras_el_hanout_maf1tb.jpg",
     "rating": 4.4
   },
   {
@@ -400,7 +399,7 @@
     "country": "Egypt",
     "categories": "Dip, Appetizer, Side Dish, Spread, Plant-Based/Vegan Dish",
     "ingredients": "Tahini, Chickpeas, Lemon, Garlic, Cumin",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862591/dishes-photo/Hummus_dhhtwv.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635862591/dishes-photo/Hummus_dhhtwv.jpg",
     "rating": 4.3
   },
   {
@@ -410,7 +409,7 @@
     "country": "Egypt",
     "categories": "CONDIMENT",
     "ingredients": "Hazelnuts, Sesame Seeds, Coriander seeds, Cummin Seeds, Ground Black Pepper, Flaked salt, Olive Oil",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862589/dishes-photo/Duqqa_wmmodw.jpg"
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635862589/dishes-photo/Duqqa_wmmodw.jpg"
   },
   {
     "name": "Thieboudienne",
@@ -420,7 +419,7 @@
     "country": "Senegal",
     "categories": "SALTWATER FISH, DISH RICE DISH",
     "ingredients": "Fish, Bell Pepper, Cabbage, Carrots, Purple eggplant, Garlic, Onions, Parsley, Sweet Potatoes, Rice, Vegetable Oil, Tomato Paste, Scotch bonnet habanero chile, Salt, Black Pepper",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862590/dishes-photo/Thieboudienne_wywfhu.jpg"
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635862590/dishes-photo/Thieboudienne_wywfhu.jpg"
   },
   {
     "name": "Ful medames",
@@ -430,7 +429,7 @@
     "country": "Egypt",
     "categories": "STEW, BREAKFAST, PLANT-BASED/VEGAN DISH",
     "ingredients": "Fava Beans, Lemon, Olive Oil, Tomato, Parsley, Hot Pepper, Garlic, Salt",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862589/dishes-photo/Ful_medames_zgbhyf.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635862589/dishes-photo/Ful_medames_zgbhyf.jpg",
     "rating": 3.6
   },
   {
@@ -440,7 +439,7 @@
     "country": "Algeria",
     "categories": "Noodle Dish",
     "ingredients": "flour, salt, water, ghee, chicken, Onions, Garlic, oil, chickpeas, ras el hanout, cinnamon, turnips, potatoes, zucchini",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862589/dishes-photo/Rechta_agcu5a.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635862589/dishes-photo/Rechta_agcu5a.jpg",
     "rating": 4.6
   },
   {
@@ -451,7 +450,7 @@
     "country": "Tunisia",
     "categories": "Salad, Appetizer",
     "ingredients": "Onions, Pepper, Tomato, Garlic, Olive Oil, Caraway, Salt, Black Pepper, Jalapeno peppers, Boiled Egg, Cooked Tuna",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862589/dishes-photo/Mechouia_Salad_immgfl.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635862589/dishes-photo/Mechouia_Salad_immgfl.jpg",
     "rating": 4.8
   },
   {
@@ -462,7 +461,7 @@
     "country": "Cape Verde",
     "categories": "Stew",
     "ingredients": "Corn, Pork, Chorizo, Tuna, Bay Leaf, Garlic",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862591/dishes-photo/Cachupa_gtsmdf.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635862591/dishes-photo/Cachupa_gtsmdf.jpg",
     "rating": 3.9
   },
   {
@@ -473,7 +472,7 @@
     "country": "South Africa",
     "categories": "Street Food, Snack, Deep-fried Dish",
     "ingredients": "",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862588/dishes-photo/Vetkoek_l773zo.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635862588/dishes-photo/Vetkoek_l773zo.jpg",
     "rating": 5.0
   },
   {
@@ -483,7 +482,7 @@
     "region": "Nothern Africa",
     "country": "Egypt",
     "categories": "CHEESE, COW'S MILK CHEESE, PASTEURIZED MILK CHEESE, HARD CHEESE, NATURAL RIND CHEESE, MIXED MILK CHEESE",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862588/dishes-photo/Rumi_q3tcmp.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635862588/dishes-photo/Rumi_q3tcmp.jpg",
     "rating": 3.9
   },
   {
@@ -494,7 +493,7 @@
     "country": "Ghana",
     "categories": "Side Dish",
     "ingredients": "Plantain, Cassava",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862588/dishes-photo/fufu_v8r8qo.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635862588/dishes-photo/fufu_v8r8qo.jpg",
     "rating": 4.2
   },
   {
@@ -505,7 +504,7 @@
     "country": "Morocco",
     "categories": "PANCAKE, DESSERT",
     "ingredients": "Baking powder, Egg, Flour, Semolina, Sugar, Vanilla, Yeast, Salt, Milk Powder, Water",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862588/dishes-photo/Baghrir_qu55vr.jpg",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635862588/dishes-photo/Baghrir_qu55vr.jpg",
     "rating": 4.4,
     "featured": true
   },
@@ -517,7 +516,7 @@
     "country": "Egypt",
     "categories": "SALTWATER FISH DISH",
     "ingredients": "Grey Mullet, Onion, Scallions, Lemon",
-    "image": "https://res.cloudinary.com/hebronhq/image/upload/v1635862588/dishes-photo/Fesikh_mfzttf.jpg"
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1635862588/dishes-photo/Fesikh_mfzttf.jpg"
   },
   {
     "name": "Matbucha",
@@ -527,7 +526,7 @@
     "country": "Morocco",
     "categories": "Vegetable Dish, Appetizer, Plant-Based/Vegan Dish",
     "ingredients": "Tomato, Garlic, Paprika, Olive Oil",
-    "image": "location of image",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1636477304/Matbucha_ifph7g.jpg",
     "featured": true
   },
   {
@@ -538,7 +537,7 @@
     "country": "Egypt",
     "categories": "Street Food",
     "ingredients": "Pita Bread, Lavash, Lamb or Beef or Chicken, Vegetables, Cinnamon, Clove",
-    "image": "location of image",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1636477303/Shawarma_np4aod.jpg",
     "rating": 4.4,
     "featured": true
   },
@@ -550,7 +549,7 @@
     "country": "Senegal",
     "categories": "Chicken Stew",
     "ingredients": "Chicken, Lemon, Onion, Vinegar",
-    "image": "location of image",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1636477303/Yassa_e5ldja.jpg",
     "rating": 4.6,
     "featured": false
   },
@@ -562,7 +561,7 @@
     "country": "Egypt",
     "categories": "Lamb/Mutton Dish",
     "ingredients": "Sheep Meat, Saffron, Cumin, Lemon, Olive Oil",
-    "image": "location of image",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1636477303/Tanjia_ph185e.jpg",
     "rating": 4.6,
     "featured": true
   },
@@ -573,7 +572,7 @@
     "country": "South Africa",
     "categories": "Stew, Meat Dish",
     "ingredients": "Lamb, Potatoes, Rice, Pasta, Tomato, Onion, Ginger, Garlic",
-    "image": "location of image",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1636477302/Potjiekos_occs4b.jpg",
     "rating": 4.7,
     "featured": false
   },
@@ -585,7 +584,7 @@
     "country": "Ethiopia",
     "categories": "Meat Dish",
     "ingredients": "Berbere Spice, Cardamom ground seeds, Ground Cloves, Fenugreek seeds, Cumin Ground Seeds",
-    "image": "location of image",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1636477303/tibs_cvpktb.jpg",
     "featured": false
   },
 
@@ -597,7 +596,7 @@
     "country": "Algeria",
     "categories": "Pancake, Stree food",
     "ingredients": "Green chilies, Carrot, Coriander, Onions, Tomato Sauce, Flour, Semolina, Salt, Cooking Oil, Vinsgar, Powder Pepper",
-    "image": "location of image",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1636477302/Mahjouba_seaxil.jpg",
     "rating": 5.0,
     "featured": true
   },
@@ -610,7 +609,7 @@
     "country": "Ethiopia",
     "categories": "Beef Dish, Ground Meat Dish, Raw Meat Dish",
     "ingredients": "Beef, Ghee, Cayenne Pepper, Garlic, Cardamom, Black Pepper",
-    "image": "location of image",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1636477303/Kitfo_zoobmz.jpg",
     "featured": false
   },
 
@@ -622,7 +621,7 @@
     "country": "Ivory Coast",
     "categories": "Street Food, Breakfast, Side Dish",
     "ingredients": "",
-    "image": "location of image",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1636477303/Atti%C3%A9k%C3%A9_jauyz3.jpg",
     "rating": 4.6,
     "featured": true
   },
@@ -634,7 +633,7 @@
     "country": "South Africa",
     "categories": "Sausage",
     "ingredients": "Nutmeg, Allspice, Cloves, Black pepper,  Beef, Pork, Vinegar, Coriander, Brown Sugar, Salt",
-    "image": "location of image",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1636477302/Boerewors_zpfzwi.jpg",
     "rating": 4.7,
     "featured": false
   },
@@ -646,24 +645,8 @@
     "country": "Morocco",
     "categories": "Sweet Pastry, Deep-fried Dessert, Fried Dough",
     "ingredients": "Egg, Honey, Pinch Mastic grains, Anise, Baking powder, Cinnamon, Saffron, Sesame seed, Vinegar, Olive Oil, Vegetable Oil, Butter, Flower water",
-    "image": "location of image",
+    "imageUrls": "https://res.cloudinary.com/hebronhq/image/upload/v1636477302/Chebakia_aez59v.jpg, https://res.cloudinary.com/hebronhq/image/upload/v1636477302/Chebakia_aez59v.jpg",
     "rating": 4.0,
-    "featured": false
-  }
-
-]
-
-
- [ {
-    "name": "",
-    "knownAs": "",
-    "description": "",
-    "region": "",
-    "country": "",
-    "categories": "",
-    "ingredients": "",
-    "image": "location of image",
-    "rating": 3.9,
     "featured": false
   }
 ]
