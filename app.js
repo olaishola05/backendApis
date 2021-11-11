@@ -3,9 +3,13 @@ require("express-async-errors");
 const express = require("express");
 const notFound = require("./middlewares/notFound");
 const dishRoute = require("./routes/dishes");
+const authRoute = require("./routes/auth");
 const errorHandleMiddleware = require("./middlewares/errorMiddleWare");
 const connectDB = require("./db/connectDB");
 const fileUpload = require("express-fileupload");
+
+// cookie
+const cookieParser = require("cookie-parser");
 
 // CLOUDINARY
 const cloudinary = require("cloudinary").v2;
@@ -20,6 +24,7 @@ const app = express();
 app.use(express.static("./public"));
 
 app.use(express.json());
+app.use(cookieParser(process.env.JWT_SECRET));
 app.use(fileUpload({ useTempFiles: true }));
 
 // routes
@@ -30,6 +35,7 @@ app.get("/", (req, res) => {
 });
 
 // Dishes Routes
+app.use("/api/v1/auth", authRoute);
 app.use("/api/v1/dishes", dishRoute);
 
 // Error Middlewares
