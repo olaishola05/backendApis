@@ -5,6 +5,7 @@ const notFound = require("./middlewares/notFound");
 const dishRoute = require("./routes/dishes");
 const authRoute = require("./routes/auth");
 const errorHandleMiddleware = require("./middlewares/errorMiddleWare");
+const userRoute = require("./routes/userRoutes");
 const connectDB = require("./db/connectDB");
 const fileUpload = require("express-fileupload");
 
@@ -36,6 +37,7 @@ app.get("/", (req, res) => {
 
 // Dishes Routes
 app.use("/api/v1/auth", authRoute);
+app.use("/api/v1/users", userRoute);
 app.use("/api/v1/dishes", dishRoute);
 
 // Error Middlewares

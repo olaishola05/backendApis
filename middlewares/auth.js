@@ -1,5 +1,5 @@
 const { UnAuthenicatedError } = require("../errors");
-const { isTokenValid } = require("../utils/createJWT");
+const { isTokenValid } = require("../utils");
 
 const authenticateUser = async (req, res, next) => {
   let token;
@@ -18,4 +18,16 @@ const authenticateUser = async (req, res, next) => {
   if (!token) {
     throw new UnAuthenicatedError("Authentication invalid");
   }
+
+  try {
+    const { name, userId, role } = isTokenValid({ token });
+    req.user = { name, userId, role, token };
+    next();
+  } catch (error) {
+    throw new UnAuthenicatedError("Authentication Invalid");
+  }
+};
+
+module.exports = {
+  authenticateUser,
 };

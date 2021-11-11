@@ -1,12 +1,19 @@
 const Dish = require("../models/dishes");
 const { StatusCodes } = require("http-status-codes");
-const { BadRequestError } = require("../errors");
+const { BadRequestError, NotFoundError } = require("../errors");
 
-const getAllDishesStatic = async (req, res) => {
-  const dishs = await Dish.find({})
-    .sort("rating")
-    .select("name country rating");
-  res.status(StatusCodes.OK).json({ nHits: dishs.length, dishs });
+// const getAllDishesStatic = async (req, res) => {
+//   const dishs = await Dish.find({})
+//     .sort("rating")
+//     .select("name country rating");
+//   res.status(StatusCodes.OK).json({ nHits: dishs.length, dishs });
+// };
+
+// create new Dish
+const createDish = async (req, res) => {
+  req.body.user = req.user.userId;
+  const dish = await Dish.create(req.body);
+  res.status(StatusCodes.CREATED).json({ dish });
 };
 
 const getAllDishes = async (req, res) => {
@@ -115,12 +122,6 @@ const getAllDishes = async (req, res) => {
   });
 };
 
-// create new Dish
-const createDish = async (req, res) => {
-  const dish = await Dish.create(req.body);
-  res.status(StatusCodes.CREATED).json({ dish });
-};
-
 const getRandomDish = async (req, res) => {
   const dish = await Dish.find({});
   const random = await dish[Math.floor(Math.random() * dish.length)];
@@ -139,10 +140,37 @@ const getDish = async (req, res) => {
   res.status(StatusCodes.OK).json({ dish });
 };
 
+const updateDish = async (req, res) => {
+  const { id: dishId } = req.params;
+  const dish = await Dish.findOneAndUpdate({ _id: dishId }, req.body, {
+    new: true,
+    runValidators: true,
+  });
+
+  if (!dish) {
+    throw new NotFoundError(`No dish with id: ${dishId}`);
+  }
+
+  res.status(StatusCodes.OK).json({ dish });
+};
+
+const deleteDish = async (req, res) => {
+  const { id: dishId } = req.params;
+  const dish = await Dish.findOne({ _id: dishId });
+
+  if (!dish) {
+    throw new NotFoundError(`No dish with id: ${dishId}`);
+  }
+
+  await dish.remove();
+  res.status(StatusCodes.OK).json({ msg: "Dish removed successfuly!" });
+};
+
 module.exports = {
   getAllDishes,
-  getAllDishesStatic,
   createDish,
   getRandomDish,
   getDish,
+  updateDish,
+  deleteDish,
 };
